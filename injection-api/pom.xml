@@ -33,17 +33,12 @@
     <dependency>
       <groupId>com.peergreen.deployment</groupId>
       <artifactId>deployment-api</artifactId>
-      <version>1.0.1-SNAPSHOT</version>
-    </dependency>
-    <dependency>
-      <groupId>com.peergreen.deployment</groupId>
-      <artifactId>deployment-api</artifactId>
-      <version>1.0.1-SNAPSHOT</version>
+      <version>1.0.1</version>
     </dependency>
     <dependency>
       <groupId>org.ow2.util.scan</groupId>
       <artifactId>scan-api</artifactId>
-      <version>3.0.0-M1-SNAPSHOT</version>
+      <version>3.0.0-M1</version>
     </dependency>
 
   </dependencies>
